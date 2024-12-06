@@ -1,0 +1,109 @@
+
+
+body {
+    margin: 0px;
+    width: 100%;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241, 235, 235);
+    
+}
+
+.logo{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(47,47,77,1) 100%, rgba(0,212,255,1) 100%);
+    
+    
+    
+}
+.logo img {
+    width: 170px;
+}
+nav {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(44,44,162,1) 100%, rgba(0,212,255,1) 100%);
+    padding: 0.8rem;
+    
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding-right: 2rem;
+    padding-left: 1.5rem;
+    
+}
+
+main div p {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(236,145,11,1) 100%, rgba(0,212,255,1) 100%);
+    padding: 0.1rem;
+    margin: 2rem;
+    color: white;
+    text-align: center;
+}
+.gift{
+    background-image: url(./img/bg-image.png);
+    text-align: center;
+    color: white;
+    padding: 2rem;
+    margin: 2rem;}
+
+.article{
+    background-color: white;
+    margin: 2rem;
+    padding: 2rem;
+}
+
+#span {
+    margin: 2rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#span a {
+    text-decoration: none;
+}
+.article img {
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    border-radius: 10%;
+    object-fit: cover;
+    text-align: center;
+    margin-inline: 1rem;
+    
+}
+
+.article-image{
+    text-align: center;
+    
+}
+
+
+.article2  {
+margin: 2rem;
+text-align: center;
+
+
+
+}
+.article2 img {
+    width: 100%;
+}
+.article2 a {
+    text-decoration: none;
+    color: rgb(36, 36, 100); 
+    font-weight: bold;
+    
+}
+.foot {
+    text-align: center;
+    color: white;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(44,44,162,1) 100%, rgba(0,212,255,1) 100%);
+    padding: 1rem;
+}
+.foot2{
+    text-align: center;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(47,47,77,1) 100%, rgba(0,212,255,1) 100%);
+    padding: 3rem;
+}
+.foot2 img{
+    width: 10%;
+}
